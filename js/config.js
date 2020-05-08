@@ -1,4 +1,4 @@
-// array of Monitor-specific API keys or Main API key to list all monitors
+// array of Monitor-specific API keys or Read-Only keys to list all monitors
 var __apiKeys = [
 	'm776858319-7c829d2c3e250f85776f588e', //Community
 	'm776858325-1ddf7c7e98ce56609325db3b', //Document
